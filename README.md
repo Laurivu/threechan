@@ -1,2 +1,2 @@
 # threechan
-Three channel guitar tube Amp with digital echo effect.
+Three channel guitar tube amp with digital echo effect.
